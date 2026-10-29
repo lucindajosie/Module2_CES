@@ -16,6 +16,7 @@
 * Solid core wires
 
 ## Setup
+* Follow the fritzing diagram below to set up components in breadboard
 * Download the Module2_CES folders with the green code button
 * Open whalesharksnake.pde in Processing (File --> Open)
 * Then open arduinowhaleshark.ino in Arduino IDE:
@@ -26,6 +27,10 @@ open arduinowhaleshark.ino
 * Select your board (Tools > Boards > esp32 > ESP32 Dev Module)
 * Select your port (Tools > Port > _your_port_)
 * Press Upload in the top left corner
+
+## Fritzing Diagram
+
+<img width="630" height="391" alt="Screenshot 2026-10-29 at 6 57 00 PM" src="https://github.com/user-attachments/assets/67b49c4c-084d-4b5a-85d8-4e1bb0b132cf" />
 
 ## Gameplay
 * Use the joystick to maneuver the whale shark around the screen. Releasing the joystick makes the shark slowly come to a stop
