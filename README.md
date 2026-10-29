@@ -1,6 +1,8 @@
 # Module 2 Project Creative Embedded Systems
 🦈🌊 Swim around as a whale shark and eat fish until your energy depletes 🌊🦈
 
+<img width="800" height="597" alt="whale_shark_README" src="https://github.com/user-attachments/assets/a4208b32-bbd6-4bc3-9cf1-a1814d1e21d5" />
+
 ## Components
 * ESP32
 * Arduino IDE
